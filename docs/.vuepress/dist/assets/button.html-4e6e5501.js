@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0340f7a4","path":"/weiui/button.html","title":"Button 按钮","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"Button 按钮","description":"按钮用于触发一个操作，如提交表单。"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"weiui/button.md"}');export{t as data};

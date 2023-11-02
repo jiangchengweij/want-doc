@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cb22e9ce","path":"/weiui/","title":"WeiUIComponent","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"WeiUIComponent"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"weiui/README.md"}');export{e as data};
