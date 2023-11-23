@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-78736061","path":"/weiui/home.html","title":"介绍","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"介绍"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"weiui/home.md"}');export{t as data};
