@@ -5,7 +5,7 @@ import SidebarConfig from './sidebar.mjs'
 export default defineConfig({
   title: "Want",
   description: "UniApp开源组件库",
-  head: [['link', { rel: 'icon', type: "image/png", href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', type: "image/png", href: '/want_doc/logo.png' }]],
   base: '/want-doc/',
   themeConfig: {
     logo: './logo.png',
