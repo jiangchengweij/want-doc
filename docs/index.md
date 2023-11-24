@@ -23,3 +23,11 @@ title: 介绍
 
 ### 预览
 
+Web
+
+<image src="https://mp-b07b633a-a3f9-4f0d-ac62-b5fdfc2f620a.cdn.bspapp.com/qrcode/want-h5-二维码.png" style="width: 250px;height: 250px;" alt="H5二维码" />
+
+微信小程序
+
+<image src="https://mp-b07b633a-a3f9-4f0d-ac62-b5fdfc2f620a.cdn.bspapp.com/qrcode/want-小程序-二维码.jpg" style="width: 250px;height: 250px;" alt="微信小程序二维码" />
+
