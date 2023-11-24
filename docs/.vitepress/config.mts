@@ -8,7 +8,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', type: "image/png", href: '/want-doc/logo.png' }]],
   base: '/want-doc/',
   themeConfig: {
-    logo: './logo.png',
+    logo: '/logo.png',
     search: {
       provider: 'local'
     },
