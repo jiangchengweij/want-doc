@@ -6,6 +6,7 @@ export default defineConfig({
   title: "Want",
   description: "UniApp开源组件库",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  base: '/want-doc/',
   themeConfig: {
     logo: './logo.png',
     search: {
